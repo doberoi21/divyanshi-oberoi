@@ -9,6 +9,7 @@ import Contact from "./PortfolioComponents/Contact-Us/Contact";
 import { ProjectList } from "./PortfolioComponents/Projects/ProjectList";
 import Experience from "./PortfolioComponents/Experience/Experience";
 import { ExperienceList } from "./PortfolioComponents/Experience/ExperienceList";
+import Footer from "./PortfolioComponents/Footer/Footer";
 function App() {
   return (
     <div className="app">
@@ -27,6 +28,7 @@ function App() {
           />
           <Route path="/contact-me" element={<Contact />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );

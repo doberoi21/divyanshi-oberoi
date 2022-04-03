@@ -1,3 +1,6 @@
+.project-container{
+    height: 72vh;
+}
 .new-container{
     display: flex;
     flex-direction: row;

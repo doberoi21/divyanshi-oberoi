@@ -6,7 +6,7 @@ const Experience = (props) => {
   const experiences = props.experiences;
   return (
     <>
-      <div className="container-fluid">
+      <div className="container-fluid exp-container">
         <div className="my-5">
           <h1 style={{ textAlign: "center" }}>Experiences</h1>
         </div>

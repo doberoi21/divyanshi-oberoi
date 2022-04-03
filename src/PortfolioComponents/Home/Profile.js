@@ -9,14 +9,14 @@ const Profile = () => {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://www.linkedin.com/in/namanicebed/">
+              <a href="https://www.linkedin.com/in/divyanshi-oberoi-a006331aa/">
                 <i className="fa fa-linkedin-square"></i>
               </a>
-              <a href="https://github.com/namanicebed">
+              <a href="https://github.com/doberoi21">
                 <i className="fa fa-github-square"></i>
               </a>
               {/* <a><i className="fa fa-instagram"></i></a> */}
-              <a href="https://twitter.com/namansingh_2000">
+              <a href="https://twitter.com/DivyanshiOberoi">
                 <i className="fa fa-twitter-square"></i>
               </a>
               <a href="https://www.youtube.com/channel/UCQDymKHbrQaVm6zQkEhJsKg">

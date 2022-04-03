@@ -8,7 +8,7 @@ const NavbarF = () => {
 
   return (
     <>
-      <nav className="navbar">
+      <nav className="navbar  sticky-top ">
         <Link to="/" >
           <span className="logo-head"> Divyanshi Oberoi </span>
         </Link>

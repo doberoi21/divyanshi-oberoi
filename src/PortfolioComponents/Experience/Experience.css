@@ -1,8 +1,12 @@
+.exp-container{
+    height: 72vh;
+}
 .new-container{
     display: flex;
     flex-direction: row;
     margin: 0 2%;
     justify-content: center;
+    flex-wrap: no-wrap;
 }
 @media screen and (max-width: 780px) {
     .new-container{

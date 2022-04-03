@@ -7,7 +7,7 @@ const Project = (props) => {
   // console.log(props);
   return (
     <>
-      <div className="container-fluid">
+      <div className="container-fluid project-container">
         <div className="my-5">
           <h1 style={{ textAlign: "center" }}>Projects</h1>
         </div>
