@@ -1,5 +1,6 @@
 .project-container{
-    height: 72vh;
+    height: 100%;
+    margin-bottom: 6%;
 }
 .new-container{
     display: flex;

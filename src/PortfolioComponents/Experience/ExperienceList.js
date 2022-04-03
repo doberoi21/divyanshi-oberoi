@@ -34,4 +34,5 @@ export const ExperienceList = [
     description:
       "I worked on my writing skills ,research skills and teamwork. Also I learnt creating creative templates working with other technicall team members.",
   },
+  
 ];

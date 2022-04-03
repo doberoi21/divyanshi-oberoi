@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectDetail from "./ProjectDetail";
-import './Project.css';
+import "./Project.css";
+import Footer from "../Footer/Footer";
 
 const Project = (props) => {
   const projects = props.projects;
@@ -11,9 +12,7 @@ const Project = (props) => {
         <div className="my-5">
           <h1 style={{ textAlign: "center" }}>Projects</h1>
         </div>
-        <div
-          className="new-container"
-        >
+        <div className="new-container">
           {projects.map((project) => (
             <ProjectDetail
               name={project.name}
@@ -24,6 +23,7 @@ const Project = (props) => {
           ))}
         </div>
       </div>
+      <Footer />
     </>
   );
 };

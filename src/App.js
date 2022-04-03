@@ -28,7 +28,6 @@ function App() {
           />
           <Route path="/contact-me" element={<Contact />} />
         </Routes>
-        <Footer />
       </BrowserRouter>
     </div>
   );

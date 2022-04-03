@@ -8,7 +8,7 @@ const NavbarF = () => {
 
   return (
     <>
-      <nav className="navbar  sticky-top ">
+      <nav className="navbar  sticky-top">
         <Link to="/" >
           <span className="logo-head"> Divyanshi Oberoi </span>
         </Link>
@@ -26,7 +26,7 @@ const NavbarF = () => {
             Projects
           </Link>
           <Link to="/experiences" className="projects hovEff">
-            Experience
+            Experiences
           </Link>
           <Link to="/contact-me" className="resume hovEff">
             Contact

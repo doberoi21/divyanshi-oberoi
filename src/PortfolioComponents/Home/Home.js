@@ -5,13 +5,14 @@ import "./Home.css";
 import About from "../Aboutme/About";
 import Project from "../Projects/Project";
 import Contact from "../Contact-Us/Contact";
+import Footer from "../Footer/Footer";
 
 const Home = () => {
   return (
     <>
       <div className="home-container">
         <Profile /> 
-        <HomeFooter /> 
+        <Footer />
       </div>
     </>
   );

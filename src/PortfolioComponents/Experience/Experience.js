@@ -1,13 +1,14 @@
 import React from "react";
 import ExperienceCard from "./ExperienceCard";
 import './Experience.css';
+import Footer from "../Footer/Footer";
 
 const Experience = (props) => {
   const experiences = props.experiences;
   return (
     <>
       <div className="container-fluid exp-container">
-        <div className="my-5">
+        <div className="my-5 " xs={12}>
           <h1 style={{ textAlign: "center" }}>Experiences</h1>
         </div>
         <div className="new-container" >
@@ -21,6 +22,7 @@ const Experience = (props) => {
           ))}
         </div>
       </div>
+      <Footer />
     </>
   );
 };

@@ -19,10 +19,6 @@ const Footer = () => {
                     <a href='/'>Copyright @ 2022 </a>
                     <div className='bridge' />
                     <a href='/'> Made with ❤️ by Divyanshi </a>
-                    {/* <div className='bridge' />
-                    <a href='/'>Terms of Use</a>
-                    <div className='bridge' />
-                    <a href='/'>Privacy Policy</a> */}
                 </div>
             </div>
         </div>
