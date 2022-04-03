@@ -2,8 +2,9 @@
   display: flex;
   align-items: center;
   text-align: center;
-  justify-content: space-between;
-  height: 20%;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
   width: 100%;
   min-height: fit-content;
 }
@@ -11,9 +12,9 @@
   display: flex;
   align-items: center;
   color: whitesmoke;
-  width: 100%;
-  /* justify-content: space-between; */
-  margin: 7% 5%;
+  /* width: 100%;
+  justify-content: space-between; */
+  margin: 10% 5%;
 }
 .profile-details {
   width: 70%;
@@ -26,7 +27,7 @@
 .profile-details-role {
   display: flex;
   flex-direction: column;
-  margin: 14px 0 24px 0;
+  padding: 14px 0 24px 0;
 }
 
 .profile-details-role h1 {
@@ -69,8 +70,8 @@
 }
 
 .profile-picture-background {
-  height: 90%;
-  width: 90%;
+  height: 92%;
+  width: 92%;
   background-image: url("../../assets/formal.jpeg");
   background-size: contain;
   border-radius: 100%;

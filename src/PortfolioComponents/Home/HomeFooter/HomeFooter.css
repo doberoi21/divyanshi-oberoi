@@ -1,5 +1,5 @@
 .footer-container{
-    /* height: 1%; */
+    height: 17.8%;
     width: 100%;
     overflow: hidden;
     display: flex;
@@ -13,9 +13,11 @@
 }
 
 .footer-parent img{
-    height: 140px;
+    height: 200px;
     width: 100%;
-    background-color: rgb(14, 19, 53);
+    margin-top: -3.5%;
+    position: relative;
+    background-color: #001a30;
 }
 
 @media  screen and (max-width:1110px) {

@@ -19,8 +19,7 @@ const About = () => {
               <span>
                 Hi, my name is Divyanshi Oberoi. <br /> Currently I am in
                 pre-final year.
-                <br /> Pursuing B.Tech major in Computer Science and Information
-                Technology.
+                <br /> Pursuing B.Tech major in Computer Science Engineering.
                 <br />
                 Being a technology-enthusiast, I love exploring new technologies
                 and leveraging them to solve real-life problems. I'm driven by

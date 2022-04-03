@@ -58,9 +58,9 @@ const Profile = () => {
             </span>
           </div>
           <div className="profile-options">
-            {/* <button className="btn primary-btn"> Hire Me </button> */}
+            <button className="btn primary-btn"> Hire Me </button>
             <a
-              href="https://drive.google.com/file/d/1PMjMmJ8kYSstP7rabsP56Blprwxz0xi1/view?usp=sharing"
+              href="https://drive.google.com/file/d/1K0wOJ8_DSbFlqKX5Xucr1sJxAVe61b6J/view?usp=sharing"
               download="Divyanshi DivResume.pdf"
             >
               <button className="btn highlighted-btn">Get Resume</button>
