@@ -1,0 +1,13 @@
+.new-container{
+    display: flex;
+    flex-direction: row;
+    margin: 0 2%;
+}
+@media screen and (max-width: 780px) {
+    .new-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin: 2% 0;
+    }
+}

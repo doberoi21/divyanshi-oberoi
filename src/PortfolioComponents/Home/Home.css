@@ -1,0 +1,9 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* height: 50vh !important; */
+  min-height: 20vh;
+  /* background-image: url("../../assets/bg.jpg"); */
+  background-image: url('https://img.freepik.com/free-photo/smooth-blue-wooden-textured-background_53876-108424.jpg?size=626&ext=jpg');
+}
