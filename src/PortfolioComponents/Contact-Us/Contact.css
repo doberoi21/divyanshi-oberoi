@@ -54,6 +54,8 @@
     }
     .video-area{
         width: 100%;
+        display: flex;
+        justify-content: center;
     }
     .animation{
         border-radius: 100%;
