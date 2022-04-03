@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/divyanshi-oberoi/static/css/main.9f98c533.css",
+    "main.js": "/divyanshi-oberoi/static/js/main.f6f0d448.js",
+    "static/media/Netflix.png": "/divyanshi-oberoi/static/media/Netflix.969e6bc63663897e8b6a.png",
+    "static/media/Weather.png": "/divyanshi-oberoi/static/media/Weather.2809e4638562cbf19dc6.png",
+    "static/media/GadgetBazzar.png": "/divyanshi-oberoi/static/media/GadgetBazzar.b1dbf567c84a1bb19bc0.png",
+    "static/media/FoodRecipe.png": "/divyanshi-oberoi/static/media/FoodRecipe.5c12ede8fcbd99b4bb66.png",
+    "static/media/Basicbank.png": "/divyanshi-oberoi/static/media/Basicbank.d3648f00694f6442827d.png",
+    "static/media/formal.jpeg": "/divyanshi-oberoi/static/media/formal.8ad6ff4415ca738cfdcf.jpeg",
+    "static/media/contact.mp4": "/divyanshi-oberoi/static/media/contact.4052216088c132bc1b8f.mp4",
+    "static/media/about-video.mp4": "/divyanshi-oberoi/static/media/about-video.ebcbaa9de0cdb58b5c08.mp4",
+    "index.html": "/divyanshi-oberoi/index.html",
+    "main.9f98c533.css.map": "/divyanshi-oberoi/static/css/main.9f98c533.css.map",
+    "main.f6f0d448.js.map": "/divyanshi-oberoi/static/js/main.f6f0d448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f98c533.css",
+    "static/js/main.f6f0d448.js"
+  ]
+}
