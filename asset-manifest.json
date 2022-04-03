@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/divyanshi-oberoi/static/css/main.9f98c533.css",
-    "main.js": "/divyanshi-oberoi/static/js/main.f6f0d448.js",
+    "main.css": "/divyanshi-oberoi/static/css/main.09cc7c1e.css",
+    "main.js": "/divyanshi-oberoi/static/js/main.04e7c43d.js",
     "static/media/Netflix.png": "/divyanshi-oberoi/static/media/Netflix.969e6bc63663897e8b6a.png",
     "static/media/Weather.png": "/divyanshi-oberoi/static/media/Weather.2809e4638562cbf19dc6.png",
     "static/media/GadgetBazzar.png": "/divyanshi-oberoi/static/media/GadgetBazzar.b1dbf567c84a1bb19bc0.png",
@@ -11,11 +11,11 @@
     "static/media/contact.mp4": "/divyanshi-oberoi/static/media/contact.4052216088c132bc1b8f.mp4",
     "static/media/about-video.mp4": "/divyanshi-oberoi/static/media/about-video.ebcbaa9de0cdb58b5c08.mp4",
     "index.html": "/divyanshi-oberoi/index.html",
-    "main.9f98c533.css.map": "/divyanshi-oberoi/static/css/main.9f98c533.css.map",
-    "main.f6f0d448.js.map": "/divyanshi-oberoi/static/js/main.f6f0d448.js.map"
+    "main.09cc7c1e.css.map": "/divyanshi-oberoi/static/css/main.09cc7c1e.css.map",
+    "main.04e7c43d.js.map": "/divyanshi-oberoi/static/js/main.04e7c43d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f98c533.css",
-    "static/js/main.f6f0d448.js"
+    "static/css/main.09cc7c1e.css",
+    "static/js/main.04e7c43d.js"
   ]
 }
