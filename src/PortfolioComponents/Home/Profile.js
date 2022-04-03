@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Typical from "react-typical";
 import "./Profile.css";
 
@@ -58,7 +59,10 @@ const Profile = () => {
             </span>
           </div>
           <div className="profile-options">
-            <button className="btn primary-btn"> Hire Me </button>
+            <Link to='/contact-me'>
+              <button className="btn primary-btn"> Hire Me </button>
+            </Link>
+
             <a
               href="https://drive.google.com/file/d/1K0wOJ8_DSbFlqKX5Xucr1sJxAVe61b6J/view?usp=sharing"
               download="Divyanshi DivResume.pdf"
