@@ -21,6 +21,7 @@ const About = () => {
               <br /> Pursuing B.Tech major in Computer Science and Information
               Technology.
               <br /> 
+                Being a technology-enthusiast, I love exploring new technologies and leveraging them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
             </span>
           </div>
         </div>

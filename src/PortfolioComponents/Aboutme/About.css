@@ -7,17 +7,21 @@
 .about-basic-info {
   display: flex;
   justify-content: center;
+  align-items: center;
   /* height: 300px; */
 }
 .video-area-left {
   width: 40%;
-  height: 100px;
+  height: 200px;
+  display: flex;
   align-items: center;
+  justify-content: center;
 }
 .about-intro-info-right {
   width: 160%;
   font-size: 20px;
   padding: 3% 2%;
+  padding-bottom: 5%;
 }
 .about-edu-info {
   margin: 0;
