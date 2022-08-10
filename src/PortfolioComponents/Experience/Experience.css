@@ -1,0 +1,19 @@
+.exp-container {
+  height: 72%;
+  margin-bottom: 13%;
+  height: 100% !important;
+}
+.newExp-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 2%;
+  justify-content: center;
+}
+@media screen and (max-width: 780px) {
+  .new-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

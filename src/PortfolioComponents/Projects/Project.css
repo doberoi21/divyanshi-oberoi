@@ -1,0 +1,18 @@
+.project-container{
+    height: 100%;
+    margin-bottom: 6%;
+}
+.new-container{
+    display: flex;
+    margin: 0 1%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+@media screen and (max-width: 780px) {
+    .new-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin: 2% 0;
+    }
+}
